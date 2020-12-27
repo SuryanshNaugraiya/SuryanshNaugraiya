@@ -1,7 +1,7 @@
 ### Hi there, I'm Suryansh 👋
 
 ## I'm a Computer Science Engineer!!
-<img align='right' src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="230">
+<img align='right' src="https://miro.medium.com/max/850/1*IRGHmiGsa16stedQvIaZfw.gif" width="280">
 
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate with other Java developers or ML programmers
