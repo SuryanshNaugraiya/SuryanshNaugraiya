@@ -11,6 +11,14 @@
 ## 💬Lets talk About Projects :
 ### Machine Learning
 - [Bitcoin Price Prediction](https://github.com/SuryanshNaugraiya/Bitcoin_Prediction_System)<br>
+### Java, Swing and Xampp Database
+- [Billing System Software](https://github.com/sainiprathmesh/Billing_Software)<br>
+### Java and Swing
+- [Tic Tac Toe game](https://github.com/SuryanshNaugraiya/tic_tac_toe_game)<br>
+### Java and Applets
+- [Car Racing Game](https://github.com/SuryanshNaugraiya/CarRacingGame)<br>
+
+
 
 ### Languages and Tools:
 <p>
