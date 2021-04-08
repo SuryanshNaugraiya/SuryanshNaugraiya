@@ -11,6 +11,7 @@
 ## 💬Lets talk About Projects :
 ### Machine Learning
 - [IPL Winner and Score Prediction](https://ipl-prediciton-1.herokuapp.com/)<br>
+- [Twitter Sentiment Analysis](https://twitter-sentiment-anaylsis.herokuapp.com/)<br>
 - [Bitcoin Price Prediction](https://github.com/SuryanshNaugraiya/Bitcoin_Prediction_System)<br>
 ### Java, Swing and Xampp Database
 - [Billing System Software](https://github.com/sainiprathmesh/Billing_Software)<br>
