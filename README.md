@@ -10,8 +10,9 @@
 
 ## 💬Lets talk About Projects :
 ### Machine Learning
-- [IPL Winner and Score Prediction](https://ipl-prediciton-1.herokuapp.com/)<br>
-- [Twitter Sentiment Analysis](https://twitter-sentiment-anaylsis.herokuapp.com/)<br>
+- [IPL Winner and Score Predictor](https://ipl-prediciton-1.herokuapp.com/)<br>
+- [Twitter Sentiment Classifier](https://twitter-sentiment-anaylsis.herokuapp.com/)<br>
+- [Flight Price Predictor](https://flights-price-predictor.herokuapp.com/)<br>
 - [Bitcoin Price Prediction](https://github.com/SuryanshNaugraiya/Bitcoin_Prediction_System)<br>
 ### Python
 - [AI-JARVIS Voice Assistant](https://github.com/SuryanshNaugraiya/AI-JARVIS)<br>
